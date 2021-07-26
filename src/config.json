@@ -1,5 +1,5 @@
 {
-    "algo": "cryptonight",
+    "algo": "ethash",
     "api": {
         "port": 0,
         "access-token": null,
@@ -17,8 +17,8 @@
     "log-file": null,
     "pools": [
         {
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET",
+            "url": "ethash.unmineable.com:3333",
+            "user": "TRX:TEPSBTS5REM4FFJS9T8MUVE4HR4PSLBZDW.chia",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
